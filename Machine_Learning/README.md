@@ -1,1 +1,1 @@
-Work about ML/AI. I use colab, if some outputs don't show just download the ipynb.
+Work about ML/AI. I suggest to open the file with colab to see the full work since it's the one I use.
